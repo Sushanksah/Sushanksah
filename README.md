@@ -1,4 +1,4 @@
-<img display="flex" justify-content="center" align-item="center" alt="Coding" width="100%" height="190" src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
+![logo](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Sushank sah</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
